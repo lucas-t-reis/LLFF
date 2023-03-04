@@ -1,5 +1,5 @@
 jupyterlab
-tensorflow-gpu == 2.*
+tensorflow == 2.*
 matplotlib
 scipy
 numpy
